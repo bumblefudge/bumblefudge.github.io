@@ -8,7 +8,7 @@ og_image: "/assets/images/banner2.jpg"
 ---
 
 &nbsp;
-<img src="/assets/images/banner2.jpg" width="100%">
+{% include figure image_path="/assets/images/banner2.jpg" alt="all work and no play" %}
 
 ##### Recent publications:
 
