@@ -110,11 +110,11 @@ author:
   avatar           : "/assets/images/tinyface.jpg"
   bio              : "Researcher and writer at large"
   location         : "Berlin, Deutschland"
-  email            :
+  email            : "caballerojuan_at_pm_dot_me"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:"caballerojuan at pm dot me"
+      url: "mailto:caballerojuan_at_pm_dot_me"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
