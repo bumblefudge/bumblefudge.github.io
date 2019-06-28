@@ -2,9 +2,9 @@
 layout: home
 author_profile: true
 permalink: /projects/
-title: current and ongoing projects
-author: Juan Caballero
-description: "juan caballer's current and ongoing professional projects"
+title: "current and ongoing projects"
+author: "Juan Caballero"
+description: "juan caballero's current and ongoing professional projects"
 og_image: "/assets/images/banner2.jpg"
 ---
 
