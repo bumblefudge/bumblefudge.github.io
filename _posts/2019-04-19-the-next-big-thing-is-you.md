@@ -1,19 +1,19 @@
 ---
+title: "the next big thing is you"
+categories_label: "blog"
+type: "blog"  
+layout: single
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+excerpt: "tldr: An optimistic introduction to what could come after the total sovereignty of the VC-funded cycle of disruptions and consolidations: decentralized identity within the personal control of each internet user"
 defaults:
   # _posts
-  - title: "the next big thing is you"
   - scope:
       path: ""
-      type: "blog"
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      categories_label: "blog"
-      excerpt: "tldr: An optimistic introduction to what could come after the total sovereignty of the VC-funded cycle of disruptions and consolidations: decentralized identity within the personal control of each internet user"
 
 ---
 
