@@ -9,6 +9,12 @@ og_image: "/assets/images/banner2.jpg"
 
 &nbsp;
 
+##### Works in progress:
+
+- [SSI for Online Media (draft of a chapter)](https://bumblefudge.github.io/assets/static/publishing_chapter_sovrin_book_(graphics_tbd).pdf) for forthcoming [DDI book](https://identitybook.info/)
+- Article about Article 230 and AirBNB (Fairhousing Berlin blog)
+- Article about misinformation policy, platform liability, and the American anti-vaxx movement (tbd)
+
 ##### Recent publications:
 
 - [Guide to Self Sovereign Identity](https://www.amazon.com/Comprehensive-Guide-Self-Sovereign-Identity-ebook/dp/B07Q3TXLDP) (Contributing editor)
