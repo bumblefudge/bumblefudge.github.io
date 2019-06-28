@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 author_profile: true
 permalink: /projects/
 title: "current and ongoing projects"
