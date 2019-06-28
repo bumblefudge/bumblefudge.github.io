@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: category
 author_profile: true
 permalink: /projects/
 title: "current and ongoing projects"
