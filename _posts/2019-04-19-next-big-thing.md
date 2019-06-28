@@ -11,6 +11,9 @@ defaults:
       comments: true
       share: true
       related: true
+      categories_label: "blog"
+      excerpt: "tldr: An optimistic introduction to what could come after the total sovereignty of the VC-funded cycle of disruptions and consolidations: decentralized identity within the personal control of each internet user"
+
 ---
 
 (originally published on [Medium.com](https://medium.com/@by_caballero/the-next-big-thing-is-you-cc78547e5d78))
