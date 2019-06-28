@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 permalink: /about/
 title: About this site
 author: Juan Caballero
