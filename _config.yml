@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "caballero, juan"
+title                    : "home"
 title_separator          : "-"
-name                     : "juan caballero"
+name                     : "caballero, juan"
 description              : "my personal and professional homebase."
 url                      : "https://bumblefudge.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
