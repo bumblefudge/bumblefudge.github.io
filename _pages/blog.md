@@ -1,12 +1,11 @@
 ---
-layout: category
-category: "blog"
+layout: single
 permalink: "/blog/"
 title: "Blogs"
 author: "Juan Caballero"
 author_profile: true
 description: "Personal writings varied and sundry."
-og_image: "/assets/images/profile.jpg"
+og_image: "/assets/images/banner1.jpg"
 ---
 
 <img src="/assets/images/banner1.jpg" width="100%">
