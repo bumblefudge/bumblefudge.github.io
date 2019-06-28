@@ -6,7 +6,7 @@ title: "Caballero, Juan"
 title_separator: "-"
 name: "Juan Caballero"
 description: "freelance researcher and writer: identity tech, data governance, and de/centralization."
-url: http://bumblefudge.github.io
+url: http://caballerojuan.com
 words_per_minute: 200
 theme: dinky
 
@@ -127,7 +127,7 @@ timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time
 
 # Plugins
 plugins:
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
