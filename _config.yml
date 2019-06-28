@@ -8,7 +8,7 @@ name: "Juan Caballero"
 description: "freelance researcher and writer: identity tech, data governance, and de/centralization."
 url: http://caballerojuan.com
 words_per_minute: 200
-theme: "jekyll"
+#theme: "minimal-mistakes-jekyll"
 
 # Comment hosting from Disqus
 #comments:
