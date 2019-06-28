@@ -6,7 +6,7 @@ title: "Caballero, Juan"
 title_separator: "-"
 name: "Juan Caballero"
 description: "freelance researcher and writer: identity tech, data governance, and de/centralization."
-url: http://caballerojuan.com
+url: http://bumblefudge.github.io
 words_per_minute: 200
 theme: "minimal-mistakes-jekyll"
 
@@ -77,7 +77,7 @@ author:
   location: "Berlin, Deutschland"
   uri: "https://www.caballerojuan.com"
 #  facebook: "aravindiyer"
-  github: "bumblefudge"
+#  github: "bumblefudge"
 #  google_plus: "+AravindIyer"
   medium: "by_caballero"
 #  instagram: "aravind.iyer"
