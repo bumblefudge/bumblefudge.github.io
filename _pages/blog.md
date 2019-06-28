@@ -10,7 +10,7 @@ categories_label: "blog"
 ---
 
 &nbsp;
-<img src="/assets/images/banner1.jpg" width="100%">
+{% include figure image_path="/assets/images/banner1.jpg" alt="my puppy making puppy dog eyes" %}
 
 As a lifelong writer across varies veins (academic, professional, literary, critical, political) I have always felt it important to do a little writing just for me.  When I was a literature professor, I advised any student that wanted to some day make a living writing to *always*, without fail, write (or carefully, lovingly translate) at least one thing every week for themself, lest the writing-muscle deep in them should atrophy from too much coursework, or term-paper-ing, or vacationing, livelihood-earning, or what have you.  As a professor, I ate that dogfood, but didn't keep receipts or records.
 
