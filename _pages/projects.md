@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /projects/
+permalink: "/projects/"
 title: "current and ongoing projects"
 description: "current and ongoing professional projects"
 og_image: "/assets/images/banner2.jpg"
