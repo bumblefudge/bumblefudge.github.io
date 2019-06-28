@@ -127,6 +127,7 @@ timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
