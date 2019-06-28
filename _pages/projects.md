@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 permalink: /projects/
 title: current and ongoing projects
 author: Juan Caballero
