@@ -9,10 +9,11 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: 0.2em;
   padding: 2;
   color: $text-color;
   font-family: $global-font-family;
+  font-size: smaller;
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -64,7 +65,7 @@ small,
 }
 
 p {
-  margin-bottom: 1.3em;
+  margin-bottom: 1.8em;
 }
 
 u,
