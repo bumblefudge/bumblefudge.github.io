@@ -1,0 +1,192 @@
+# Jekyll configuration
+
+# Site settings
+locale: "en-US"
+title: "Caballero, Juan"
+title_separator: "-"
+name: "Juan Caballero"
+description: "freelance researcher and writer: identity tech, data governance, and de/centralization."
+url: https://www.caballerojuan.com
+words_per_minute: 200
+theme: "minimal-mistakes-jekyll"
+
+# Comment hosting from Disqus
+#comments:
+#  provider: "disqus"
+#  disqus:
+#    shortname: "aravindiyer"
+
+# Comment hosting from Staticman
+repository: "bumblefudge/caballerojuan.github.io"
+comments:
+  provider: "staticman_v2"
+staticman:
+  branch: "master"
+#reCaptcha:
+#  siteKey: "6LfarVQUAAAAAOBAfH7NHqlBeI0sAx7jB7CcNp2u"
+#  secret: "kJLDgpPcAPTcXPRne5EVo43urCYOrzrIx6GGoQnHKfTsSQ0l91oH6Bv1HqjJ+lmej1KfvbSIfDZ4T1NgOUYAJ6CBJtftmyQRuC7jYZtlXa+IADCc6NMIAkaiJIh9tlGdfVXpTXa92jfx5v2vUmJ5C35ZY8rhrY7OiJMDRlEzB5U="
+
+# Site search from Algolia
+#search: true
+#search_provider: "algolia"
+#algolia:
+#  application_id: 5XQCQN167D
+#  index_name: ARAVIND_WEBSITE
+#  search_only_api_key: 5c1ac82194add16945031972f23d08f7
+#  powered_by: "true"
+#  files_to_exclude:
+#    - _pages/blog.markdown
+#    - _pages/home.markdown
+#    - _pages/music-naka.markdown
+#    - _pages/only-human.markdown
+#    - _pages/sitemap.markdown
+#    - _drafts/*.markdown
+
+# SEO and Analytics
+#google_site_verification : "o5P1GShvyxwaztgNGI9OXDlnWXa9MjkhbyIPUNfNsFI"
+#bing_site_verification   : "EB2419D7F9B094E998F87C560BAE12C8"
+#analytics:
+#  provider: "google-gtag"
+#  google:
+#    tracking_id: "UA-115949882-1"
+
+# Social profile
+twitter:
+  username: "by_caballero"
+#facebook:
+#  username: "aravindiyer"
+#  app_id: "2013161692342257"
+og_image: "/assets/yosemite.jpg"
+social:
+  type: "Person"
+  name: "Juan Caballero"
+  links:
+    - "https://twitter.com/by_caballero"
+    - "https://medium.com/@by_caballero"
+    - "https://www.linkedin.com/in/caballerojuan"
+    - "https://www.keybase.io/by_caballero"
+    - "https://popula.com/author/juan-caballero/"
+#    - "https://instagram.com/aravind.iyer"
+#    - "https://plus.google.com/+AravindIyer"
+
+# Site author
+author:
+  name: "Juan Caballero"
+  avatar: "/assets/tinyface.jpg"
+  bio: "freelance researcher and writer: identity tech, data governance, and de/centralization."
+  location: "Berlin, Deutschland"
+  uri: "https://www.caballerojuan.com"
+#  facebook: "aravindiyer"
+  github: "bumblefudge"
+#  google_plus: "+AravindIyer"
+  medium: "by_caballero"
+#  instagram: "aravind.iyer"
+  linkedin: "caballerojuan"
+  twitter: "by_caballero"
+
+# File reading
+include:
+  - _pages
+  - _redirects
+exclude:
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Gemfile
+  - node_modules
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Jekyll processing
+markdown: kramdown
+highlighter: rouge
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Miscellaneous
+permalink: /:categories/:title/
+timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+#  - jekyll-algolia
+  - jemoji
+
+# Collections - enable a collection for use as drafts
+collections:
+  drafts: 
+    output: true
+    permalink: /:categories/:title/
+  music-naka:
+    output: true
+    permalink: /:categories/:title/
+  only-human:
+    output: true
+    permalink: /:categories/:title/
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+# Image assets folder
+imagefolder: "/assets/images/"
+
+# Build settings
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _drafts
+  - scope:
+      path: ""
+      type: drafts
+    values:
+      layout: draft
+      author_profile: true
+      read_time: true
+      sitemap: false
+      noindex: true   #To hide from robots and crawlers
+  # _dreams
+  - scope:
+      path: ""
+      type: dreams
+    values:
+      layout: article
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
