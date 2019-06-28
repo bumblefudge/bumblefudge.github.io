@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Caballero, Juan"
+title                    : "Site Title"
 title_separator          : "-"
-name                     : "Juan Caballero"
-description              : "Personal and professional homebase."
-url                      : https://bumblefudge.github.io"
-baseurl                  : / # the subpath of your site, e.g. "/blog"
-repository               : bumblefudge/bumblefudge.github.io"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -82,8 +82,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:  
-  username               : by_caballero
+twitter:
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juan Caballero"
-  avatar           : "/assets/images/tinyface.jpg"
-  bio              : "researcher and writer at large"
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an amazing person."
   location         : "Somewhere"
   email            :
   links:
@@ -130,7 +130,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-      
+
 # Site Footer
 footer:
   links:
