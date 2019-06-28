@@ -8,7 +8,7 @@ name: "Juan Caballero"
 description: "freelance researcher and writer: identity tech, data governance, and de/centralization."
 url: http://bumblefudge.github.io
 words_per_minute: 200
-theme: dinky
+theme: jekyll-theme-dinky
 
 # Comment hosting from Disqus
 #comments:
