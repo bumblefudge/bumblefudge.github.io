@@ -8,7 +8,9 @@ read_time: true
 comments: true
 share: true
 related: true
-excerpt: "tldr: An optimistic introduction to what could come after the total sovereignty of the VC-funded cycle of disruptions and consolidations: decentralized identity within the personal control of each internet user"
+description: "SSI for newbs, with pictures and swearwords"
+excerpt: >
+  tldr; An optimistic introduction to what could come after the total sovereignty of the VC-funded cycle of disruptions and consolidations, specifically, decentralized identity within the personal control of each internet user.
 defaults:
   # _posts
   - scope:
