@@ -8,6 +8,7 @@ og_image: "/assets/images/banner2.jpg"
 ---
 
 &nbsp;
+<img src="/assets/images/banner2.jpg" width="100%">
 
 ##### Works in progress:
 

@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juan Caballero"
+  name             : "juan caballero"
   avatar           : "/assets/images/tinyface.jpg"
-  bio              : "Researcher and writer at large"
+  bio              : "researcher and writer at large"
   location         : "Berlin, Deutschland"
   email            : "caballerojuan_at_pm_dot_me"
   links:
@@ -124,6 +124,9 @@ author:
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@by_caballero"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/juancaballero"
 
 # Site Footer
 footer:
