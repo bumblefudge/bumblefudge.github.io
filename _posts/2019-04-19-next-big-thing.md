@@ -1,9 +1,10 @@
 ---
 defaults:
   # _posts
+  - title: "the next big thing is you"
   - scope:
       path: ""
-      type: posts
+      type: "blog"
     values:
       layout: single
       author_profile: true
