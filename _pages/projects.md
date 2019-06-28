@@ -10,17 +10,17 @@ og_image: "/assets/images/banner2.jpg"
 &nbsp;
 <img src="/assets/images/banner2.jpg" width="100%">
 
+##### Recent publications:
+
+- [Guide to Self Sovereign Identity](https://www.amazon.com/Comprehensive-Guide-Self-Sovereign-Identity-ebook/dp/B07Q3TXLDP) (Contributing editor)
+- [The Next Big Thing is You](https://medium.com/@by_caballero/the-next-big-thing-is-you-cc78547e5d78): a laypersons' introduction to SSI (Medium)
+- [Exploring Market Gaps in Corporate and IoT Identity](https://app.convertkit.com/landing_pages/457406) (Contributing editor and researcher, for Purple Tornado)
+
 ##### Works in progress:
 
 - [SSI for Online Media (draft of a chapter)](https://bumblefudge.github.io/assets/static/publishing_chapter_sovrin_book_(graphics_tbd).pdf) for forthcoming [DDI book](https://identitybook.info/)
 - Article about Article 230 and AirBNB (Fairhousing Berlin blog)
 - Article about misinformation policy, platform liability, and the American anti-vaxx movement (tbd)
-
-##### Recent publications:
-
-- [Guide to Self Sovereign Identity](https://www.amazon.com/Comprehensive-Guide-Self-Sovereign-Identity-ebook/dp/B07Q3TXLDP) (Contributing editor)
-- [The Next Big Thing is You](https://medium.com/@by_caballero/the-next-big-thing-is-you-cc78547e5d78): a laypersons' introduction to SSI (Medium)
-- [Exploring Market Gaps in Corporate and IoT Identity](https://app.convertkit.com/landing_pages/457406) (Contributing editor and Researcher, for Purple Tornado)
 
 ##### Current projects (updated may 2019): 
 
