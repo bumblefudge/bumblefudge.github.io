@@ -77,7 +77,7 @@ In many ways, SSI is not a bold new vision of the internet, but a return to the 
 
 Back to brass tacks: what does an internet built on the basis of self-sovereign identity actually look like? How can you retain “sovereign” control over your data if it’s still being stored on a company’s servers and processed to do cool stuff with it?
 
-![img](https://cdn-images-1.medium.com/max/600/1*AiXjE9xjDPdQG0zWQGkgCA.jpeg){: .align-right}
+![img](https://cdn-images-1.medium.com/max/600/1*AiXjE9xjDPdQG0zWQGkgCA.jpeg){: .align-left}
 
 
 First off, there is far less of your data going to each company and the companies aren’t sharing it between them, so there is a lot less data at play in any given transaction. Indeed, limiting each transaction or account’s data access to the “minimum data necessary” is a kind of mantra to the most hard-line SSI thinkers. And to be clear, these hard-liners have a pretty solid point about “SSO” (single sign-on), the user-friendly password workaround that give the google/facebook duopoly access to the lion’s share of personal data on earth. Every account you access “through” a facebook or google account gets lumped in with all the data facebook or google already got from you directly, making the “files” that data brokers legally gather on each of us massive archives by comparison to what the East German secret police kept in filing cabinets on its most suspicious and free-thinking citizens.
