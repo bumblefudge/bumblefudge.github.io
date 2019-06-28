@@ -1,13 +1,13 @@
 ---
 layout: single
-permalink: "/blog/"
-title: "Blogs"
-author: "Juan Caballero"
 author_profile: true
+title: "blogs"
+permalink: "/blog/"
 description: "Personal writings varied and sundry."
 og_image: "/assets/images/banner1.jpg"
 ---
 
+&nbsp;
 <img src="/assets/images/banner1.jpg" width="100%">
 
 As a lifelong writer across varies veins (academic, professional, literary, critical, political) I have always felt it important to do a little writing just for me.  When I was a literature professor, I advised any student that wanted to some day make a living writing to *always*, without fail, write (or carefully, lovingly translate) at least one thing every week for themself, lest the writing-muscle deep in them should atrophy from too much coursework, or term-paper-ing, or vacationing, livelihood-earning, or what have you.  As a professor, I ate that dogfood, but didn't keep receipts or records.
