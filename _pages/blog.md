@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: home
 author_profile: true
 title: "blogs"
 permalink: "/blog/"
