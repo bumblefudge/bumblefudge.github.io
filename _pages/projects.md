@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /about/
+permalink: /projects/
 title: current and ongoing projects
 author: Juan Caballero
 author_profile: true
