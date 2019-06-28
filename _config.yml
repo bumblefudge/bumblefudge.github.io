@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Caballero, Juan"
+title                    : "caballero, juan"
 title_separator          : "-"
 name                     : "juan caballero"
 description              : "my personal and professional homebase."
