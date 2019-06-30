@@ -1,6 +1,6 @@
 ---
 title: "the next big thing is you"
-categories_label: "blog"
+categories: "blog"
 type: "blog"  
 layout: single
 author_profile: true
