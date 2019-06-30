@@ -2,7 +2,6 @@
 layout: home
 author_profile: true
 title: "blogs"
-permalink: "/blog/"
 description: "Personal writings varied and sundry."
 og_image: "/assets/images/banner1.jpg"
 categories_label: "blog"
