@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: collection
 author_profile: true
 title: "blogs"
 permalink: "/blog/"
