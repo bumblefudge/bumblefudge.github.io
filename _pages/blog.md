@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: archive
 author_profile: true
 title: "blogs"
 category: blog
