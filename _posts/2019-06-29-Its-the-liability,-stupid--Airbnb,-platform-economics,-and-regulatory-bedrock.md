@@ -1,6 +1,8 @@
 ---
 title: "It’s the liability, stupid: Airbnb, platform economics, and regulatory bedrock"
-categories_label: "blog"
+categories: 
+  - blog
+  - fairhousing
 type: "blog"  
 layout: single
 author_profile: true
