@@ -14,6 +14,6 @@ As a lifelong writer across varies veins (academic, professional, literary, crit
 
 Now, in a different phase of my life altogether, I finally feel I am rooted enough to get back to taking my own advice.  I will be doing so here, over the coming weeks, and as time allows digging up old writings from [past](http://caballerojuan.tumblr.com) [lives](http://tortaface.com).
 
-{% for post in site.posts limit: 5 %}
+{% for post in site.posts limit: 10 %}
   {% include archive-single.html %}
 {% endfor %}
