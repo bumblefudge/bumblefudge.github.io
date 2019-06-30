@@ -13,7 +13,6 @@ excerpt: >
   The US law that created Social media decades ago and AirBNB's sweet new deal from the EU have something in common: big-time immunity from consequences.
 ---
 
-##It’s the liability, stupid: Airbnb, platform economics, and regulatory bedrock
 
 **TLDR:**
 
