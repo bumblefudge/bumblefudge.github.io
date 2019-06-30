@@ -1,6 +1,8 @@
 ---
 title: "the next big thing is you"
-categories: "blog"
+categories: 
+  - blog
+  - ssi
 type: "blog"  
 layout: single
 author_profile: true
