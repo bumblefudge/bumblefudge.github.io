@@ -2,7 +2,6 @@
 layout: archive
 author_profile: true
 title: "blogs"
-category: blog
 permalink: "/blog/"
 description: "Personal writings varied and sundry."
 og_image: "/assets/images/banner1.jpg"
