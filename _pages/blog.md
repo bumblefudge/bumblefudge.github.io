@@ -1,7 +1,8 @@
 ---
-layout: archive
+layout: collection
 author_profile: true
 title: "blogs"
+collection: blog
 permalink: "/blog/"
 description: "Personal writings varied and sundry."
 og_image: "/assets/images/banner1.jpg"
