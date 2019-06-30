@@ -10,7 +10,7 @@ read_time: true
 comments: true
 share: true
 related: true
-description: "The US law that created Social media decades ago and AirBNB's sweet new deal from the EU have something in common: big-time immunity from consequences"
+description: "The US law that made social media a thing decades ago and AirBNB's sweet new deal from the EU have something in common: categorical immunity"
 excerpt: >
   The US law that created Social media decades ago and AirBNB's sweet new deal from the EU have something in common: big-time immunity from consequences.
 ---
