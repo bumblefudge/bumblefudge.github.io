@@ -4,7 +4,7 @@ As part of our software futures research grant from the Department of Homeland S
 
 ## Research Scope and Methods
 
-[![cover of report](/assets/images/vds_report_cover.png){: .align-right}](http://bit.ly/VDSreport)
+[![cover of report](/assets/images/vds_report_cover.png){: .align-center}](http://bit.ly/VDSreport)
 
 Electronic voting or blockchain voting were out of scope right out the gate, for reasons that came up extemporaneously in our interviews: namely, that no experts we talked to seemed to think either would be even remotely secure enough to consider for real elections any time soon. Voting machines themselves were also out of scope, given that multiple other grant-funded research teams were already working specifically on the security of the machines currently licensed for sale in the US and still others teams were designing and testing machines being proposed for future licensing.
 
@@ -28,7 +28,7 @@ Another perspective-altering theme that kept coming up in interviews was that th
 
 One other recurring theme in our interviews was a cultural divide between two demographics working together closely in the space: on the one hand, elections specialists who tend to have little training or familiarity with data security, and on the other, data specialists with years of experience in public- or private-sector data systems and processes but limited exposure to the esoteric and *sui generis* processes of elections. This informed how we structured our report — we wanted to lay out an actionable agenda regardless of how much budget or staffing the federal elections agencies had, which would be educational in equal parts to both demographics.
 
-![massive infographic of data moving through voting system](/assets/images/vds_diagram_purpletornado.png){: .full}
+![massive infographic of data moving through voting system](/assets/images/vds_diagram_purpletornado.png){: .align-center}
 
 We started by sketching out the current state of the field for the unfamiliar reader, and introducing some of the specialized vocabulary needed to understand technical reports linked from the appendix. Then we proceeded to explain as succinctly as possible all the moving parts in the election system from a data integrity perspective— the diagram above only covers about 2/3 of them!
 
