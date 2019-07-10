@@ -16,7 +16,7 @@ excerpt: >
   An overview of my work with Purple Tornado on the U.S. Voter Data Security report commissioned by DHS in 2018.
 ---
 
-### Report: Securing Voter Data Systems (2019)
+(Note: A version of this essay appears on the [Purple Tornado blog](http://www.medium.com/in-present-tense/).)
 
 As part of our software futures research grant from the Department of Homeland Security, Science and Technology directorate, the Purple Tornado team spent a few months familiarizing ourselves with an issue that might be called an open wound in North American politics: the security and integrity of the ballot. I’ll recount here some highlights and then explain the final form taken by our public-domain report, linked below.
 
