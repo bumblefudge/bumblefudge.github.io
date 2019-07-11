@@ -38,7 +38,9 @@ Personally, my biggest counter-intuitive surprise as a newcomer to the electoral
 
 Another high-level finding was that the lion’s share of contracts for hardware and services are held by three companies which effectively have a lock on the federal **certification process** required to legally sell voting machinery to states. One of the simplest and most effective legal hacks to speed up innovation and technical advances in the sector, many speculated, would be to simplify and open up the certification process to allow more competition in this critical infrastructural niche. Few had hopes that this kind of hack would make it through the current Congress, though, or for that matter any imaginable Congress, given the incentives and loyalties at play. Others with ties to the DefCon community fantasized about earmarking a portion of such contracts or certification processes to fund bug bounties, pegging certification to demonstrable security rather than to abstract criteria. Failing such a bold intervention, however, the price of entry has remained high enough to see no significant newcomers in over a decade. Hopefully that’s changing this year due to some civic-minded investments and advocacy.
 
-![scary graphic of election hacking](/assets/images/ballot_hack_graphic.jpg){: .full}
+![scary graphic of election hacking](/assets/images/ballot_hack_graphic.jpg)
+{: .full}
+
 Each headline with the words “hack” and “election” in it is a security event whether any hacking took place or not.
 {: .text-center}
 
