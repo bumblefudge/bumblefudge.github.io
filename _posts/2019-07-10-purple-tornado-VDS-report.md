@@ -42,7 +42,7 @@ Another high-level finding was that the lion’s share of contracts for hardware
 {: .full}
 
 Each headline with the words “hack” and “election” in it is a security event whether any hacking took place or not.
-{: .text-center}
+{: .font-size:-1; .text-center}
 
 Another perspective-altering theme that kept coming up in interviews was that the **perception** of hacking might well be as effective as the most sophisticated hacks. Weakening public trust in the electoral process itself is an effective way to swing tight elections (particularly since young voters and other “swing”demographics are most likely to be dissuaded from voting). What’s more, many geopolitical activists have been arguing for years that the weakening of trust in broad, coalition-based political institutions (the UN, the EU, NATO, and free trade blocs) is, in and of itself, a guiding principle of many powerful states’ foreign policies, which they discuss openly in internal documents and budgets. For this reason, many experts are deeply suspicious of journalists or researchers with a commercial incentive to hyperbolize theoretical threats or dwell on worst-case-scenario speculation, since the average voter is already dangerously demoralized and skeptical about democratic processes thanks to years of sensational press and fear-mongering security contractors drumming up business. As one expert put it, there are very real threats and easily-identified bad actors, but the former have more to do with human error and labor-force education, and the latter are obstructing funding and reform, not hacking databases.
 
