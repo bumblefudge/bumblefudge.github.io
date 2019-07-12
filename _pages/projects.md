@@ -35,7 +35,7 @@ og_image: "/assets/images/banner2.jpg"
 
 ##### Past projects:
 
-- Zip Zap Solutions, LLC (Washington, D.C.) - Business development
+- [Zip Zap Solutions, LLC](https://www.zipzapsolutions.com/) (Washington, D.C.) - Business development
 - Shooter/Farmer (Los Angeles, CA) - Systems Administrator
-- Earlham College (Richmond, IN) - Assistant Professor of Spanish and Latin American Studies (2013-2016) 
+- [Earlham College](http://www.earlham.edu) (Richmond, IN) - Assistant Professor of Spanish and Latin American Studies (2013-2016) 
   - academic publications listed [here](https://independentresearcher.academia.edu/JuanCaballero)
