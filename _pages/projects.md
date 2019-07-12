@@ -31,6 +31,8 @@ og_image: "/assets/images/banner2.jpg"
 - [sikoba](http://www.sikoba.com/www/index.html#content4-1j) (for profit) - advisory role
 - [fairhousing berlin](http://www.fairhousing-berlin.de/) (co-op) - research, consulting, grantwriting
 
+![photo of a stage presentation](/assets/images/tedtalker.png)
+
 ##### Past projects:
 
 - Zip Zap Solutions, LLC (Washington, D.C.) - Business development
