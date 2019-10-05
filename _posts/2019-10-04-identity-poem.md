@@ -21,7 +21,7 @@ defaults:
 
 ---
 
-![img](../assets/images/pch.jpg){: .align-center}
+![img](/assets/images/pch.jpg){: .align-center}
 
 My grandfather, last of my four grandparents to go, passed away Monday, the day before the #iiw29 conference which I then attended  in Mountain View, California.  Today, processing both events, a brief prose poem occured to me while waiting for oil to ooze through my car's roadtrip-addled engine.
 
