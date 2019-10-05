@@ -23,7 +23,7 @@ defaults:
 
 ![img](/assets/images/pch.jpg){: .align-center}
 
-My grandfather, last of my four grandparents to go, passed away Monday, the day before the (#iiw29)[https://iiw.idcommons.net/IIW_29_Session_Notes] conference which I then attended  in Mountain View, California.  Today, processing both events, a brief prose poem occured to me while waiting for oil to ooze through my car's roadtrip-addled engine.
+My grandfather, last of my four grandparents to go, passed away Monday, the day before the [#iiw29](https://iiw.idcommons.net/IIW_29_Session_Notes) conference which I then attended  in Mountain View, California.  Today, processing both events, a brief prose poem occured to me while waiting for oil to ooze through my car's roadtrip-addled engine.
 
 1. On the day someone's parent dies, they think about how much they have been turning into their parents lately and barring a catastrophe they generally decide to let themselves turn in a few increments more, such that their parent can stay a little more in the world.
 2. Earlier today, three motorcyclists passed close by me on the highway wearing matching jackets with a patch identifying them to an African-American motorcycle club whose motto was, "we all we got."
