@@ -18,13 +18,15 @@ og_image: "/assets/images/banner2.jpg"
 
 ##### Works in progress:
 
+- Various biweekly entries ranging from SSI basics to industry-specific use cases on the Spherity [blog](https://medium.com/spherity)
 - [SSI for Online Media (draft of a chapter)](https://bumblefudge.github.io/assets/static/publishing_chapter_sovrin_book_(graphics_tbd).pdf) for forthcoming [DDI book](https://identitybook.info/)
 - Article about [Article 230 and AirBNB](https://medium.com/domi-labs/its-the-liability-stupid-airbnb-platform-economics-and-regulatory-bedrock-639cbb14918e) ([Domi Labs](http://domilabs.io/) blog)
 - Article about misinformation policy, platform liability, and the American anti-vaxx movement (tbd)
 
-##### Current projects (updated may 2019): 
+##### Current projects (updated october 2019): 
 
 - [spherity](https://spherity.com/about/#team) (for-profit GmbH) - communications lead, research, interoperability liason (DIF, W3C)
+  - Spherity is currently hiring in many technical and non-technical roles! Please reach out if you are eligible to work in Germany (remote OK on German business hours). 
 - [domi labs](http://domilabs.io/) (social-purpose UG) - founder, privacy and identity advisor
   - (Note: Domi Labs is currently participating in the [SSI Incubator](https://www.ssiincubator.com) in San Francisco, CA!)
 - [purple tornado](http://thepurpletornado.com) (for-profit LLC) - researcher (no currently-active projects)
