@@ -24,13 +24,13 @@ og_image: "/assets/images/banner2.jpg"
 
 ##### Current projects (updated may 2019): 
 
-- [spherity, GmbH](http://www.spherity.com) (full-time) - communications lead, research, interoperability liason (DIF, W3C)
-- [domi labs, UG](http://domilabs.io/) - founder, privacy and identity advisor
-- [purple tornado](http://thepurpletornado.com) - researcher (no currently-active projects)
-- [sourcecheck](https://sourcecheck.org/) (co-op) - founder, [research](https://twitter.com/sourcecheckorg/), outreach
-- [popula](http://popula.com) (for profit) - contributing author, editorial assist
-- [rebooting the web of trust](https://www.weboftrust.info/) (nonprofit, conference) - [archival](http://github.com/WebOfTrustInfo/) maintance/re-publishing project
-- [sikoba](http://www.sikoba.com/www/index.html#content4-1j) (for profit) - light advisory role
+- [spherity](http://www.spherity.com) (for-profit GmbH) - communications lead, research, interoperability liason (DIF, W3C)
+- [domi labs](http://domilabs.io/) (social-purpose UG) - founder, privacy and identity advisor
+- [purple tornado](http://thepurpletornado.com) (for-profit LLC) - researcher (no currently-active projects)
+- [sourcecheck](https://sourcecheck.org/) (social-purposes co-op) - founder, [research](https://twitter.com/sourcecheckorg/), outreach
+- [popula](http://popula.com) (for profit LLC) - contributing author, editorial assist
+- [rebooting the web of trust](https://www.weboftrust.info/) (nonprofit conference) - [archival](http://github.com/WebOfTrustInfo/) maintance/re-publishing project
+- [sikoba](http://www.sikoba.com/www/index.html#content4-1j) (for-profit) - light advisory role
 
 # ![](/assets/images/tedtalker.png)
 
