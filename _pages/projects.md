@@ -26,6 +26,7 @@ og_image: "/assets/images/banner2.jpg"
 
 - [spherity](https://spherity.com/about/#team) (for-profit GmbH) - communications lead, research, interoperability liason (DIF, W3C)
 - [domi labs](http://domilabs.io/) (social-purpose UG) - founder, privacy and identity advisor
+  - (Note: Domi Labs is currently participating in the [SSI Incubator](https://www.ssiincubator.com) in San Francisco, CA!)
 - [purple tornado](http://thepurpletornado.com) (for-profit LLC) - researcher (no currently-active projects)
 - [sourcecheck](https://sourcecheck.org/) (social-purposes co-op) - founder, [research](https://twitter.com/sourcecheckorg/), outreach
 - [popula](http://popula.com) (for profit LLC) - contributing author, editorial assist
