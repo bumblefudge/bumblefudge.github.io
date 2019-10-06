@@ -19,7 +19,7 @@ og_image: "/assets/images/banner2.jpg"
 ##### Works in progress:
 
 - [SSI for Online Media (draft of a chapter)](https://bumblefudge.github.io/assets/static/publishing_chapter_sovrin_book_(graphics_tbd).pdf) for forthcoming [DDI book](https://identitybook.info/)
-- Article about Article 230 and AirBNB (Fairhousing Berlin blog)
+- Article about [Article 230 and AirBNB](https://medium.com/domi-labs/its-the-liability-stupid-airbnb-platform-economics-and-regulatory-bedrock-639cbb14918e) ([Domi Labs](http://domilabs.io/) blog)
 - Article about misinformation policy, platform liability, and the American anti-vaxx movement (tbd)
 
 ##### Current projects (updated may 2019): 
