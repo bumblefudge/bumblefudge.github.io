@@ -24,9 +24,9 @@ og_image: "/assets/images/banner2.jpg"
 
 ##### Current projects (updated may 2019): 
 
-- [spherity GmbH](http://www.spherity.com) (full-time) - communications lead, research, interoperability liason (DIF, W3C)
-- [fairhousing berlin](http://www.fairhousing-berlin.de/) (social-purpose UG) - founder, privacy and identity advisor
-- [purple tornado](http://thepurpletornado.com) (for profit) - research
+- [spherity, GmbH](http://www.spherity.com) (full-time) - communications lead, research, interoperability liason (DIF, W3C)
+- [domi labs, UG](http://domilabs.io/) - founder, privacy and identity advisor
+- [purple tornado](http://thepurpletornado.com) - researcher (no currently-active projects)
 - [sourcecheck](https://sourcecheck.org/) (co-op) - founder, [research](https://twitter.com/sourcecheckorg/), outreach
 - [popula](http://popula.com) (for profit) - contributing author, editorial assist
 - [rebooting the web of trust](https://www.weboftrust.info/) (nonprofit, conference) - [archival](http://github.com/WebOfTrustInfo/) maintance/re-publishing project
