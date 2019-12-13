@@ -25,17 +25,14 @@ og_image: "/assets/images/banner2.jpg"
 - [SSI for Online Media (draft of a chapter)](https://bumblefudge.github.io/assets/static/publishing_chapter_sovrin_book_(graphics_tbd).pdf) for forthcoming [DDI book](https://identitybook.info/)
 - Article about misinformation policy, platform liability, and the American anti-vaxx movement (tbd)
 
-##### Current projects (updated october 2019): 
+##### Current projects (updated december 2019): 
 
 - [spherity](https://spherity.com/about/#team) (for-profit GmbH) - communications lead, research, interoperability liason (DIF, W3C)
-  - Spherity is currently hiring in many technical and non-technical roles! Please reach out if you are eligible to work in Germany (remote OK on German business hours). 
-- [domi labs](http://domilabs.io/) (social-purpose UG) - founder, privacy and identity advisor
-  - (Note: Domi Labs is currently participating in the [SSI Incubator](https://www.ssiincubator.com) in San Francisco, CA!)
+- [domi labs](http://domilabs.io/) (social-purpose UG) - co-founder, privacy and identity advisor
+- [sikoba](http://www.sikoba.com/www/index.html#content4-1j) (for-profit) - contract research and advisory role
 - [purple tornado](http://thepurpletornado.com) (for-profit LLC) - researcher (no currently-active projects)
-- [sourcecheck](https://sourcecheck.org/) (social-purposes co-op) - founder, [research](https://twitter.com/sourcecheckorg/), outreach
+- [sourcecheck](https://sourcecheck.org/) (social-purposes co-op) - co-founder, [research](https://twitter.com/sourcecheckorg/), outreach
 - [popula](http://popula.com) (for profit LLC) - contributing author, editorial assist
-- [rebooting the web of trust](https://www.weboftrust.info/) (nonprofit conference) - [archival](http://github.com/WebOfTrustInfo/) maintance/re-publishing project
-- [sikoba](http://www.sikoba.com/www/index.html#content4-1j) (for-profit) - light advisory role
 
 # ![](/assets/images/tedtalker.png)
 
