@@ -46,7 +46,11 @@ In any case, here is what I came up with in (full disclosure) 30 minutes of spit
 
 As is usually the case with pitchdeckery, I had to present this tentative map to a room full of guinea pigs and gets some flack about it to fine-tune it in 3 or 4 ways to arrive at the version I'm posting above. But I always wanted to post some further clarifications and challenges that came via Twitter from the [Akasha Foundation](https://akasha.org/blog/category/identity)\'s resident techno-solutionism skeptic Sheldrake.
 
-![img](https://github.com/bumblefudge/bumblefudge.github.io/blob/master/assets/images/sheldrake%20question%20(1).jpg?raw=true){: .align-left}
+------
+
+![img](https://github.com/bumblefudge/bumblefudge.github.io/blob/master/assets/images/sheldrake%20question%20(1).jpg?raw=true){: .align-center}
+
+### Trust Economics
 
 DLT tech is only one form taken by trust economics more generally, and definitely what Christopher Allen calls "trustless economics" falls under this category. For further reading on the LESS/Trustless divide within decentralized identity thinking, see Phil Windley's excellent [blog post](https://www.windley.com/archives/2020/03/supporting_less_and_trustless_identity.shtml) on the subject. There, Windley lays out Christopher Allen's and Tim Bouma's core concepts for a wider audience. I would also clarify that in both Allen's and Bouma's original writings on the subject, "trustless" does not refer primarily to real-world trust but rather to cryptographic trust, applying to information businesses an  analogy to "zero trust" thinking in [cybersecurity](https://www.csoonline.com/article/3247848/what-is-zero-trust-a-model-for-more-effective-security.html). There, "trustless" refers to a move away from reliance on "security perimeters" wide or narrow, opting instead for an "always verify" approach to data and self-certifying/proving identifiers.
 
@@ -56,7 +60,11 @@ Sam Smith has written about the "trust tax" in his original meta-platform [essay
 
 All of this is to say that trust economics, like economics generally, is not a very gay science: approaching issues of trust across different domains from an economic perspective can (and should) drain any warm-and-fuzzy feelings from the term. It will, I hope, be a corrective to the tendency in identity marketing towards what Tim Bouma has called ["trustwashing"](https://twitter.com/trbouma/status/1213514724727513091), whereby technological or legal assurance can be offered as a substitute for actual faith in institutions or businesses under the vague term of "trust". I know some identity and data technologists (like Paul Knowles of the [Human Colossus Foundation](https://humancolossus.foundation/)) would gladly see this over-used term put to rest, but perhaps my academic background inclines me to flogging the horse until it is way too dead to be of any use to the marketing department.
 
-![img](https://github.com/bumblefudge/bumblefudge.github.io/blob/master/assets/images/sheldrake%20question%20(2).jpg?raw=true){: .align-left}
+------
+
+![img](https://github.com/bumblefudge/bumblefudge.github.io/blob/master/assets/images/sheldrake%20question%20(2).jpg?raw=true){: .align-center}
+
+### What is the fate of the intersubjective and the collective under a regime of "personal data"?
 
 This is one question where I feel I could never satisfy Philip, whose own [writings](https://akasha.org/blog/category/identity) on identity often focus on this fundamental problem. Profit-driven information technology is generally at the very bleeding edge of capitalism's perennial imperative to atomize and render all human activity subject to contract, [intellectual property] ownership, and individual liability. If we interpret GDPR's definition of "personal" data too literally or simplistically, we risk uncritically furthering this aim and making our digital lives even more atomized and cut off from community and civic virtue than our physical ones. I think I share with Akasha the hope that alternatives exist to that! I also share with many the hope that GDPR and data law generally can evolve in more collective and community-supporting directions.  I'll return to that in a moment.
 
@@ -64,7 +72,11 @@ But before tackling that more general question about legal frameworks, I can add
 
 Back to terminology, I have personally started to move away from the term "self-sovereignty" because I feel that rhetoric (with its open debts to cyberlibertarianism) too often undervalues communities and collective actors not motivated by profit, and caricatures government and civil society as either nuisances or badly-run corporations. Outside the United States, these echoes and resonances more seriously impede civil society's and the public sector's interest in decentralized identity technologies. I avoid using the term "SSI" primarily because the aura of being a [cyberlibertarian] North American export makes decentralized identity less attractive or useful as a tool in European or Global South efforts towards data sovereignty, full stop. If decentralized identity does nothing more than further entrench North American techno-colonialism, that would be another sign it's time to cash in my chips and go back to painting houses for a living, or teaching languages and literary theory.
 
+------
+
 ![img](https://github.com/bumblefudge/bumblefudge.github.io/blob/master/assets/images/sheldrake%20question%20(3).jpg?raw=true){: .align-left}
+
+### Are data unions collectively and organically governed enough to be any safer for our data than corporations and the state?
 
 Forgive the hysterics, but I can only get defensive at the implication that unions are bad for community, an assertion which is anathema to my personal politcal ideology. My grandfather worked his whole adult life as a union accountant in Argentina, and never abandoned his public support for his small-farmer collective even during the multiple periods of his life where it was quite literally dangerous to align oneself publically with the union movement. As we joke in Argentina, it was only a "Cold War" in the lucky countries; it got pretty hot where my parents lived when I was born. 
 
@@ -72,7 +84,13 @@ I'll be blunt: unions can be corrupt, they can be centralizing forces, and they 
 
 I am no expert on data unions, but I support lots of the writing and thinking about data collectives and unions coming out the [MyData](https://mydata.org/wp-content/uploads/sites/5/2020/04/Understanding-Mydata-Operators-pages.pdf), [Me2B Alliance](https://www.me2balliance.org/me2b-principles.html), and [Radical Exchange](https://www.youtube.com/watch?v=5g5R-6f7Sd4) communities and elsewhere. It is an emerging legal and social form that I hope comes into more focus in theory and practice in the coming years. I don't think the identity tech community can afford to leave this thinking out of the "big tent" of decentralized identity. I sincerely hope that as the Trust-over-IP Foundation is built out and takes on a more international focus, these kinds of sense-making can be incorporated substantially in its mission and the scope of its discussions about roles and rights. Until now, the [Sovrin foundation](http://sovrin.org/blog/) has been pretty good about keeping sovereignty, accessibility, and equity in scope, so I have every reason to believe the new venture will as well.
 
+More generally, though, I guess the process of writing this essay has made clear to me that I need to invest more time in not just studying the efforts of others but actually putting my shoulder to the wheel of making data unions a thing worth having faith in.  Live better, compute union!
+
+------
+
 ![img](https://github.com/bumblefudge/bumblefudge.github.io/blob/master/assets/images/sheldrake%20question%20(4).jpg?raw=true){: .align-left}
+
+### Every time I hear the word "decentralization" I reach for my checkbook
 
 I couldn't agree more, and I love the [article](https://osf.io/m7wyj/) in question, but I think we do Nathan Schneider's analysis a disservice by using it as an acid bath with which to dismiss any and all interest in decentralization as hypocritical or bad-faith smokescreening of ulterior motives. Paradoxically, I think the calls to decentralize (or re-decentralize) the internet are both legitimate and unrealistic, worthwhile and impossible to definitively scope or measure. 
 
