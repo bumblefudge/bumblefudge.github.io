@@ -16,6 +16,7 @@ og_image: "/assets/images/banner2.jpg"
 - [Decentralized Identity Foundation](https://identity.foundation) - membership initiative, community/process refinements, and programming for "face to face" conference [19 Jan](https://www.eventbrite.com/e/dif-face-to-face-virtual-2-tickets-131061150429)
 - [Rebase Community Group](https://www.w3.org/community/rebase/) (public meetings launching Q1 2021)
 - [SSI for Online Media (chapter draft)](https://bumblefudge.github.io/assets/static/publishing_chapter_sovrin_book_(graphics_tbd).pdf) for forthcoming [DDI book](https://identitybook.info/) - an overview of some product ideas from the SourceCheck research archives
+- learning proof aG - my business entity for consulting, working with freelancers on contracts, etc.  website coming soon.
 
 ##### Selected publications:
 
