@@ -24,7 +24,7 @@ og_image: "/assets/images/banner2.jpg"
 - [Exploring Market Gaps in Corporate and IoT Identity](https://app.convertkit.com/landing_pages/457406) (Contributing editor and researcher, for Purple Tornado)
 - Article about [Article 230 and AirBNB](https://medium.com/domi-labs/its-the-liability-stupid-airbnb-platform-economics-and-regulatory-bedrock-639cbb14918e) ([Domi Labs](http://domilabs.io/) blog)
 - "Decentralized Identity as a Meta-Platform: Cooperation beats Aggregation", a [whitepaper](http://bit.ly/spherityMetaPlatformPaper) from the Rebooting Web of Trust 9 conference in Prague, Czechia
-- General editorship July 2019-2020 on the Spherity [blog](https://medium.com/spherity) 
+- Editor/Chief contributor to the Spherity [blog](https://medium.com/spherity) July 2019-2020
 
 # ![](/assets/images/tedtalker.png)
 
