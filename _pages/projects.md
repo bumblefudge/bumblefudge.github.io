@@ -13,7 +13,7 @@ og_image: "/assets/images/banner2.jpg"
 ##### Current projects (updated december 2020): 
 
 - [SourceCheck](https://sourcecheck.org/) (Berlin/Portugal) - research and open-source cooperative, currently supported by a Grant for the Web (funded by Coil and administered by Mozilla)
-- [Decentralized Identity Foundation](https://identity.foundation) - membership initiative, community/process refinements, and programming for "face to face" conference [19 Jan](https://www.eventbrite.com/e/dif-face-to-face-virtual-2-tickets-131061150429)
+- [Decentralized Identity Foundation](https://identity.foundation) - [educational](https://identity.foundation/education/) & [editorial](https://medium.com/decentralized-identity) duties, [membership](https://identity.foundation/join/) initiative, [community](https://difdn.slack.com/)/[process](https://github.com/decentralized-identity/org) refinements, and programming for "face to face" conference [19 Jan](https://www.eventbrite.com/e/dif-face-to-face-virtual-2-tickets-131061150429)
 - [Rebase Community Group](https://www.w3.org/community/rebase/) - an open source infrastructure initiative, sponsored by Spruce Systems (NYC). Public meetings launching Q1 2021.
 - [SSI for Online Media (chapter draft)](https://bumblefudge.github.io/assets/static/publishing_chapter_sovrin_book_(graphics_tbd).pdf) for forthcoming [DDI book](https://identitybook.info/) - an overview of some product ideas from the SourceCheck research archives
 - learningProof aG - my business entity for consulting, working with freelancers on contracts, etc.  website coming soon.
