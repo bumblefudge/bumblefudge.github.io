@@ -13,14 +13,13 @@ og_image: "/assets/images/banner2.jpg"
 ##### Current projects (updated december 2020): 
 
 - [SourceCheck](https://sourcecheck.org/) (Berlin/Portugal) - research and open-source cooperative, currently supported by a Grant for the Web (funded by Coil and administered by Mozilla)
+- [learningProof](https://learningproof.xyz) UG - business entity for consulting, working with freelancers on grants, contracts, etc.
+- [Spruce Systems](https://spruceid.com) - Open Source Yenta and [developer portal](https://spruceid.dev) maintenance
 - [Decentralized Identity Foundation](https://identity.foundation) - [educational](https://identity.foundation/education/) & [editorial](https://medium.com/decentralized-identity) duties, [membership](https://identity.foundation/join/) initiative, [community](https://difdn.slack.com/)/[process](https://github.com/decentralized-identity/org) refinements, and programming for "face to face" conference [19 Jan](https://www.eventbrite.com/e/dif-face-to-face-virtual-2-tickets-131061150429)
-- [Rebase Community Group](https://www.w3.org/community/rebase/) - an open source infrastructure initiative, sponsored by Spruce Systems (NYC). Public meetings launching Q1 2021.
-- [SSI for Online Media (chapter draft)](https://bumblefudge.github.io/assets/static/publishing_chapter_sovrin_book_(graphics_tbd).pdf) for forthcoming [DDI book](https://identitybook.info/) - an overview of some product ideas from the SourceCheck research archives
-- [learningProof](https://learningproof.xyz) UG - my business entity for consulting, working with freelancers on contracts, etc.
+- [Rebase Community Group](https://www.w3.org/community/rebase/) - an open source infrastructure initiative, sponsored by Spruce Systems (NYC). Public meetings launching Q2 2021.
 
 ##### Selected publications:
 
-- [Guide to Self Sovereign Identity](https://www.amazon.com/Comprehensive-Guide-Self-Sovereign-Identity-ebook/dp/B07Q3TXLDP) (Contributing editor)
 - [The Next Big Thing is You](https://medium.com/@by_caballero/the-next-big-thing-is-you-cc78547e5d78): a laypersons' introduction to SSI (Medium)
 - [Exploring Market Gaps in Corporate and IoT Identity](https://app.convertkit.com/landing_pages/457406) (Contributing editor and researcher, for Purple Tornado)
 - Article about [Article 230 and AirBNB](https://medium.com/domi-labs/its-the-liability-stupid-airbnb-platform-economics-and-regulatory-bedrock-639cbb14918e) ([Domi Labs](http://domilabs.io/) blog)
@@ -31,6 +30,7 @@ og_image: "/assets/images/banner2.jpg"
 
 ##### Past projects:
 
+- [Spherity GmbH](https://spherity.com/) (startup) - communications, technical resource, grantwriter, and project manager for SVIP project Phase 1
 - [domi labs](http://domilabs.io/) (social-purpose UG) - co-founder, privacy and identity advisor
 - [purple tornado](http://thepurpletornado.com) (for-profit LLC) - researcher (no currently-active projects)
 - [popula](http://popula.com) (for profit LLC) - contributing author, editorial assist
